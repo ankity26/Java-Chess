@@ -1,5 +1,5 @@
 public abstract class Tile {
-
+//chess tile class.
     int tileCoordinate;
     Tile(int tileCoordinate){
         this.tileCoordinate = tileCoordinate;
